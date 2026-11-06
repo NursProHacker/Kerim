@@ -1,0 +1,6 @@
+[
+  {"filename":"services/kerim-gallery-original.jpg","category":"services","source":"https://i1.photo.2gis.com/images/branch/0/30258560176194386_7c56.jpg","status":"downloaded locally via browser","placement":"hero"},
+  {"filename":"gallery remote","category":"services","source":"https://i4.photo.2gis.com/photo-gallery/1b9e4e29-c183-4364-9f7b-6a14f152bba9.jpg","status":"remote only; CDN shell download failed","placement":"gallery / makeup"},
+  {"filename":"gallery remote","category":"services","source":"https://i0.photo.2gis.com/photo-gallery/66a6b3e3-bed3-472e-99e8-20429ef0732f.jpg","status":"remote only; CDN shell download failed","placement":"gallery"},
+  {"filename":"gallery remote","category":"branding","source":"https://i7.photo.2gis.com/images/branch/0/30258560176193912_6d30.jpg","status":"remote only; CDN shell download failed","placement":"gallery"}
+]
